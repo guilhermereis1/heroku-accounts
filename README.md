@@ -49,6 +49,6 @@ If you want to position yourself with the account faster, simply add it to your 
 
 ```
 # Heroku
-alias hp='heroku accounts:set personal'
-alias hw='heroku accounts:set work'
+alias hp="heroku accounts:set personal"
+alias hw="heroku accounts:set work"
 ```
