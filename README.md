@@ -43,3 +43,12 @@ To remove an account:
 
     $ heroku accounts:remove personal
     Account removed: personal
+
+
+If you want to position yourself with the account faster, simply add it to your zshrc or .bashrc, to make it even easier, I’ve added the following aliases to my ~/.zshrc (or ~/.bashrc):
+
+```
+# Heroku
+alias hp='heroku accounts:set personal'
+alias hw='heroku accounts:set work'
+```
